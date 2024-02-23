@@ -4,3 +4,5 @@ by.udemy React 완벽 가이드
 2023.01.25 ~ 2023.01.28
 
 #### [preview]
+- 초기 화면 Preview
+<img src="./README_img/preview.png" width="80%">

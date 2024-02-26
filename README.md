@@ -9,3 +9,5 @@ by.udemy React 완벽 가이드
 
 - WIN 
 <img src="./README_img/win.png" width="80%">
+
+- LOSE

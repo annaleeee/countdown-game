@@ -11,3 +11,4 @@ by.udemy React 완벽 가이드
 <img src="./README_img/win.png" width="80%">
 
 - LOSE
+<img src="./README_img/lose.png" width="80%">
